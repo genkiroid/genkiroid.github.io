@@ -85,6 +85,8 @@ ogp:
 # Gems.
 #
 gems:
+  - jekyll-sitemap
+  - jekyll-mentions
   - jekyll-paginate
   - jemoji
 
