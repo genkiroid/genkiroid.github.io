@@ -5,6 +5,8 @@ title:  MySQLの日付算術演算関数DATE_ADDについて
 
 リファレンスマニュアルにも最後にちゃんと書いているのですが、案外ハマってしまうと思う。
 
+<!--more-->
+
 [MySQL :: MySQL 5.6 リファレンスマニュアル :: 12.7 日付および時間関数](https://dev.mysql.com/doc/refman/5.6/ja/date-and-time-functions.html#function_date-add)
 
 > 日付算術演算では、完全な日付が必須であるため、'2006-07-00' のような不完全な日付や、誤った形式の日付では正常に機能しません。

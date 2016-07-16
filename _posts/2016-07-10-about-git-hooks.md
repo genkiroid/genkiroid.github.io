@@ -6,6 +6,8 @@ GitHub と GHE を使用していて、user.name, user.email の設定を忘れ�
 
 そういうのを防ぐ一例。
 
+<!--more-->
+
 ### 前提
 
  * GitHub用のローカルリポジトリは、`~/src/github.com/` 配下で管理しているとする。

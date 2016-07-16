@@ -6,6 +6,8 @@ title: IssueやPullRequestのURLをタイトル付きでMarkdown形式に変換�
 
 [genkiroid/mdlink-vim](https://github.com/genkiroid/mdlink-vim)
 
+<!--more-->
+
 個人的にIssueやらPullRequestのURLを議事録やらTODOリストやらにとりあえず貼っておく機会が多くあります。
 
 そして、後でそのURLを見た時に、なんのURLなのか見ただけでは分からず、とりあえずブラウザで開いて確認するという若干無駄な作業が発生していました。
