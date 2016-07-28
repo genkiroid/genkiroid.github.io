@@ -85,6 +85,7 @@ ogp:
 # Gems.
 #
 gems:
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-mentions
   - jekyll-paginate
