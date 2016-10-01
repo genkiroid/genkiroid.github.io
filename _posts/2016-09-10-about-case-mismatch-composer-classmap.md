@@ -1,6 +1,9 @@
 ---
 layout: post
 title: ComposerのクラスオートローダはCase Sensitiveである話
+tags:
+  - PHP
+  - Composer
 ---
 
 Composerが提供しているクラスオートローダは、クラス名に関して大文字・小文字を区別するようです。

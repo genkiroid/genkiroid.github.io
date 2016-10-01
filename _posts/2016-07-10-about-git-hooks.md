@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  GitHub, GHEで異なるユーザー名を併用しているときの自動設定の一例
+tags:
+  - Git
 ---
 GitHub と GHE を使用していて、user.name, user.email の設定を忘れたりすると、デフォルトユーザーが使用された結果、コミットに異なるユーザー作業が混じってしまうことがある。
 

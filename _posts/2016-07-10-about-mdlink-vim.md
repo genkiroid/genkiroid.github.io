@@ -1,6 +1,8 @@
 ---
 layout: post
 title: IssueやPullRequestのURLをタイトル付きでMarkdown形式に変換するVimプラグイン 
+tags:
+  - Vim
 ---
 タイトルのとおりのVimプラグインを書きました。
 

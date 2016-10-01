@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  MySQLの日付算術演算関数DATE_ADDについて
+tags:
+  - MySQL
 ---
 
 リファレンスマニュアルにも最後にちゃんと書いているのですが、案外ハマってしまうと思う。

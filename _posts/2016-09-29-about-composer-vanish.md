@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Composerがある日突然消える話
+tags:
+  - PHP
+  - Composer
 ---
 
 Composerの話です。

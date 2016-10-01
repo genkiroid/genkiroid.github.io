@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  composerによるクラスのオートロードについて
+tags:
+  - PHP
+  - Composer
 ---
 ```php
 <?php

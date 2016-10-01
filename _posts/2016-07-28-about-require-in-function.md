@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  function の中で require_once した時の挙動
+tags:
+  - PHP
 ---
 
 PHPの話です。

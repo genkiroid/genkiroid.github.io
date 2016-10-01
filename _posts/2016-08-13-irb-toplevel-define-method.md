@@ -1,6 +1,8 @@
 ---
 layout: post
 title: irbでのトップレベルにおけるメソッド定義について 
+tags:
+  - Ruby
 ---
 
 Rubyの話です。
