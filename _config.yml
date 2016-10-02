@@ -5,8 +5,8 @@
 # baseurl: ""
 url: http://genkiroid.github.io
 baseurl: ""
-title: genkiroid's blog
-description: About web application engineering.
+title: /etc/motg
+description: genkiroid's blog about web application engineering.
 # avatar: https://avatars2.githubusercontent.com/u/1169623?v=3&s=460
 favicon: /assets/img/ogp.png
 language: ja
