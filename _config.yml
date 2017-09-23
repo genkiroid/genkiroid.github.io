@@ -72,9 +72,9 @@ paginate_path: page/:num
 # Social.
 #
 share_buttons:
-  twitter: false
+  twitter: true
   facebook: false # needs ogp.fb.app_id
-  hatena: false
+  hatena: true
 ogp:
   image_url: //ttskch.github.io/jekyll-tch-theme/assets/img/ogp.png
   fb:
