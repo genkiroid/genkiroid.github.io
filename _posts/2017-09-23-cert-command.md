@@ -68,10 +68,10 @@ SANs:       [misc-sni.google.com *.1ucrs.com *.abc.xyz *.adsensecustomsearchads.
 
 のように出力されます。
 
-出力フォーマットは上記の他にMarkdown形式に対応しています。`-f md`フラグを指定してします。
+出力フォーマットは上記の他にMarkdown形式に対応しています。`-f md`フラグを指定します。
 
 ```sh
-$ cert github.com golang.org
+$ cert -f md github.com golang.org
 DomainName | Issuer | NotBefore | NotAfter | CN | SANs
 --- | --- | --- | --- | --- | ---
 github.com | DigiCert Inc | 2016/03/10 09:00:00 | 2018/05/17 21:00:00 | github.com | github.com<br/>www.github.com<br/>
