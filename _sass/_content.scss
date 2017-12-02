@@ -166,7 +166,14 @@
             margin-top: $margin;
         }
         .footnotes {
+            border-top: 1px solid $link-color;
             font-size: 0.9em;
+        }
+        .footnotes ol {
+            list-style-position: outside;
+        }
+        .footnotes p {
+            margin: 3px;
         }
     }
 

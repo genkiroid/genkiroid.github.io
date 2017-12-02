@@ -97,5 +97,6 @@ golang.orgのSANs多いですね。
 Goを書いてみた感想としては、こういう小さなコマンドを書くのに手っ取り早いなぁと思ったのと、Goの思想も小さく小さくだと思うのでそれにも合っていますし、今回のようなコマンド作成を動機とするなら言語として良い選択かなぁと思いました。
 思いついたり必要にかられたら、どんどん書いていってみようと思いました。
 
-そして、Go10周年、おめでとうございます :tada:
+そして、Go10周年[^anniversary]、おめでとうございます :tada:
 
+[^anniversary]: Goの発表は2009年ですが、ここでは Robert Griesemer, Rob Pike, Ken Thompson によって「Go」と命名された2007年9月を基点にしています。[command center: Go: Ten years and climbing](https://commandcenter.blogspot.jp/2017/09/go-ten-years-and-climbing.html)
