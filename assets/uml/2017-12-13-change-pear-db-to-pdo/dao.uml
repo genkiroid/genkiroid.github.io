@@ -1,0 +1,48 @@
+@startuml
+
+skinparam monochrome true
+
+class Dao_Abstract {
+}
+note left: データアクセス
+
+class Dao_A {
+}
+class Dao_B {
+}
+
+class Dao_Manager {
+}
+note left: データアクセス
+
+class operationDao {
+}
+class operationDaoA {
+}
+class operationDaoB {
+}
+
+class Foo_Manager {
+}
+class Bar_Manager {
+}
+class Baz_Manager {
+}
+
+class Other_Dao {
+}
+
+Dao_Abstract <|-- Dao_A
+Dao_Abstract <|-- Dao_B
+
+operationDao ..> Dao_Manager : use
+operationDaoA ..> operationDao : use
+operationDaoB ..> operationDao : use
+
+Foo_Manager <|-- Bar_Manager
+Foo_Manager <|-- Baz_Manager
+
+Foo_Manager ..> Other_Dao : use
+Other_Dao ..> Dao_Manager : use
+
+@enduml
