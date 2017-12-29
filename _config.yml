@@ -3,7 +3,7 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://genkiroid.github.io
+url: https://genkiroid.github.io
 baseurl: ""
 title: /etc/motg
 description: genkiroid's blog about web application engineering.
