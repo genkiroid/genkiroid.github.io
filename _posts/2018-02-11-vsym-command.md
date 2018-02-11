@@ -5,6 +5,8 @@ tags:
   - Go
 ---
 
+(※追記: サーバ証明書チェインすべてを検証する必要があるようですが、現在の `vsym` では証明書チェインは検証していないため、一部のケースで結果が正しくないようです。現在対応中です。)
+
 ちまたでは、Symantec のサーバ証明書問題に関連して、Chrome や Firefox でWEBサイトにアクセスした際に、セキュリティ警告が表示されるようになる可能性があるということがひっそりと話題になっています。
 *（Googleによるアナウンスはこちら。[https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html](https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html)）*
 
