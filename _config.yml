@@ -11,6 +11,10 @@ description: genkiroid's blog about web application engineering.
 favicon: /assets/img/ogp.png
 language: ja
 
+# Twitter card
+twitter:
+  username: genkiroid
+
 #
 # Icons
 #
