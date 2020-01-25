@@ -8,7 +8,7 @@ baseurl: ""
 title: /etc/motg
 description: genkiroid's blog about web application engineering.
 # avatar: https://avatars2.githubusercontent.com/u/1169623?v=3&s=460
-favicon: /assets/img/ogp.png
+favicon: /assets/img/logo.png
 language: ja
 
 # Twitter card
@@ -87,11 +87,6 @@ share_buttons:
   twitter: true
   facebook: false # needs ogp.fb.app_id
   hatena: true
-ogp:
-  image_url: //ttskch.github.io/jekyll-tch-theme/assets/img/ogp.png
-  fb:
-    admin: # facebook admin id
-    app_id: # facebook application id
 
 #
 # Gems.
