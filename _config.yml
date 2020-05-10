@@ -96,6 +96,7 @@ gems:
   - jekyll-sitemap
   - jekyll-mentions
   - jekyll-paginate
+  - jekyll-toc
   - jemoji
 
 #
