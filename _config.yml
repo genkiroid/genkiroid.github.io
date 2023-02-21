@@ -91,7 +91,7 @@ share_buttons:
 #
 # Gems.
 #
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-mentions
