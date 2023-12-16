@@ -3,7 +3,7 @@ services:
   jekyll:
     platform: linux/amd64
     image: jekyll/jekyll:latest
-    command: jekyll serve --trace --force_polling
+    command: jekyll serve --trace --future --livereload
     volumes:
       - $PWD:/srv/jekyll
     ports:
